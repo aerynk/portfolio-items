@@ -58,28 +58,32 @@ This guide references repos found on GitHub, a site that hosts open-source proje
 8. Select **Clone from URL**.
 9. Follow the prompts to authenticate your GitHub account.
 10. Your file manager window will appear. Select the folder location where you would like to store the cloned repo on your local computer.
-11. Open the cloned repo folder in Visual Studio Code.
-
-### Forking the repo
-##### Forking the repo: without using the command line
-1. In your browser, navigate to the [LinkedInLearning - Learning Java](https://github.com/LinkedInLearning/learning-java-2825378) repo.
-2. Near the top right of the screen, click **Fork**. See *Figure 1* to locate **Fork** on your screen.
-   ![Figure 1](Figure1.PNG)
+- Authenticate GitHub CLI:
+1. Open your file manager.
+2. Locate where you stored the LinkedInLearning - Learning Java repo folder.
+3. Right click on the folder.
+4. Select **Git Bash Here**.
+5. Verify you are on the master branch. See *Figure 1* for a visual of the terminal.
+   ![Figure 1](Figure1.PNG)  
+   
    *Figure 1*
-
-##### Forking the repo: using the command line
-1. Launch Visual Studio Code.
-2. Open your file manager.
-3. Locate where you stored the LinkedInLearning - Learning Java repo folder.
-4. Right click on the folder.
-5. Select **Git Bash Here**.
-6. Verify you are on the master branch. See *Figure 2* for a visual of the command line.
-   ![Figure 2](Figure2.PNG)
-   *Figure 2*
-7. Inside the Git terminal, run the following command:
+6. Inside the Git terminal, run the following command:
    ~~~
    gh auth login
    ~~~
-8. On the first prompt, select **GitHub.com** with the Return key.
-9. On the next prompt, select **HTTPS** with the Return key.
-10. On the next prompt, input **y**, then press the Return key.
+7. On the first prompt, select **GitHub.com** with the Return key.
+8. On the next prompt, select **HTTPS** with the Return key.
+9. On the next prompt, input **y**, then press the Return key.
+10. On the next prompt, select **Login with a web browser** with the Return key.
+11. Press the Return key.
+12. Input the one-time code into your browser.
+13. Follow the prompts to authenticate your GitHub account.
+### Forking the repo
+##### Forking the repo: without using the command line
+1. In your browser, navigate to the [LinkedInLearning - Learning Java](https://github.com/LinkedInLearning/learning-java-2825378) repo.
+2. Near the top right of the screen, click **Fork**. See *Figure 2* to locate **Fork** on your screen.
+   ![Figure 2](Figure2.PNG)  
+   
+   *Figure 2*
+
+##### Forking the repo: using the command line
