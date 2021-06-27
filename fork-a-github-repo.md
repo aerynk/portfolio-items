@@ -27,7 +27,7 @@ This guide references repos found on GitHub, a site that hosts open-source proje
 - A GitHub repo. This guide used another user's repo, [LinkedInLearning - Learning Java](https://github.com/LinkedInLearning/learning-java-2825378).
 
 ##### What you'll need: using GitHub CLI
-- A GitHub account. See the **[What you'll need: without using the command line](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#what-youll-need-without-using-the-command-line)** section to create a new account.
+- A GitHub account. See the **[What you'll need: without using GitHub CLI](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#what-youll-need-without-using-github-cli)** section to create a new account.
 - A GitHub repo. This guide used another user's repo, [LinkedInLearning - Learning Java](https://github.com/LinkedInLearning/learning-java-2825378).
 - GitHub CLI. Download GitHub CLI:
 1. Navigate to the [GitHub CLI download site](https://cli.github.com/).
