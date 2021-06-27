@@ -98,3 +98,13 @@ This guide references repos found on GitHub, a site that hosts open-source proje
    ~~~
 7. Select the appropriate base repo with the Return key.
    - The base repo is the repo your changes are based on.
+
+### Work on Projects
+That's it! You're ready to work on GitHub projects without making changes to the owner's repo.
+Forking a repo using GitHub CLI gives you many more options for working on projects on your computer, but forking a repo without GitHub CLI gets you started quicker and avoids the need to download multiple programs.
+
+---
+
+Written by Aeryn Kauffman  
+27-JUNE-2021  
+Duration: ~6 hours
