@@ -18,38 +18,38 @@ This guide references repos found on GitHub, a site that commonly hosts open-sou
 ### What you'll need before forking the repo
 ##### What you'll need: without using the command line
 - A GitHub account. To create a new account:
-  1. Navigate to [GitHub.com](https://github.com/).
-  2. Input your email into the white **Email address** field.
-  3. Select **Sign up for GitHub**.
-  4. Follow the prompts to create your account.
-  5. Verify your email according to the instructions.
+1. Navigate to [GitHub.com](https://github.com/).
+2. Input your email into the white **Email address** field.
+3. Select **Sign up for GitHub**.
+4. Follow the prompts to create your account.
+5. Verify your email according to the instructions.
 - A GitHub repo. This can be another user's repo or your own. This guide used another user's repo, [LinkedInLearning - Learning Java](https://github.com/LinkedInLearning/learning-java-2825378).
 
 ##### What you'll need: using the command line
 - A GitHub account. See the **[What you'll need: without using the command line](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#what-youll-need-without-using-the-command-line)** section to create a new account.
 - A GitHub repo. This can be another user's repo or your own. This guide used another user's repo, [LinkedInLearning - Learning Java](https://github.com/LinkedInLearning/learning-java-2825378).
-- Git.
-  1. Navigate to [Git-Downloads](https://git-scm.com/downloads).
-  2. Select the appropriate operating system for your computer. This guide used Windows.
-  3. Follow the prompts to download Git to your computer.
-  4. Configure the download prompts for your project needs. This guide used the default prompts.
+- Git. To download Git:
+1. Navigate to [Git-Downloads](https://git-scm.com/downloads).
+2. Select the appropriate operating system for your computer. This guide used Windows.
+3. Follow the prompts to download Git to your computer.
+4. Configure the download prompts for your project needs. This guide used the default prompts.
 - A source-code editor with embedded Git. This guide used Visual Studio Code. Install and configure Visual Studio Code:
-  1. Navigate to the [Visual Studio Code download site](https://code.visualstudio.com/).
-  2. Select **Download for Windows**.
+1. Navigate to the [Visual Studio Code download site](https://code.visualstudio.com/).
+2. Select **Download for Windows**.
       - If you are using a different operating system, select the drop-down arrow and choose the appropriate operating system.
       - The download should begin immediately.
-  3. Configure the download prompts for your project needs. This guide used the default prompts.
-  4. Launch Visual Studio Code after the download is complete.
-  5. Inside Visual Studio Code, close the default tab.
-  6. Select the blue **Clone Repository** button.
-  7. Copy and paste the following URL into the gray search field:
+3. Configure the download prompts for your project needs. This guide used the default prompts.
+4. Launch Visual Studio Code after the download is complete.
+5. Inside Visual Studio Code, close the default tab.
+6. Select the blue **Clone Repository** button.
+7. Copy and paste the following URL into the gray search field:
      ~~~
      https://github.com/LinkedInLearning/learning-java-2825378
      ~~~
-  8. Select **Clone from URL**.
-  9. Follow the prompts to authenticate your GitHub account.
-  10. Your file manager window will appear. Select the folder location where you would like to store the cloned repo on your local computer.
-  11. Open the cloned repo folder in Visual Studio Code.
+8. Select **Clone from URL**.
+9. Follow the prompts to authenticate your GitHub account.
+10. Your file manager window will appear. Select the folder location where you would like to store the cloned repo on your local computer.
+11. Open the cloned repo folder in Visual Studio Code.
 
 ### Forking the repo
 ##### Forking the repo: without using the command line
