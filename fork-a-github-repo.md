@@ -79,14 +79,14 @@ This guide references repos found on GitHub, a site that hosts open-source proje
 13. Follow the prompts to authenticate your GitHub account.
 14. Inside the terminal, press the Return key. The terminal should now begin with the master branch line. See *Figure 1* for a visual of the master branch line.
 ### Forking the repo
-##### Forking the repo: without using the command line
+##### Forking the repo: without using GitHub CLI
 1. In your browser, log in to your GitHub account.
 2. Navigate to the [LinkedInLearning - Learning Java](https://github.com/LinkedInLearning/learning-java-2825378) repo.
 2. Near the top right of the screen, select **Fork**. See *Figure 2* to locate **Fork** on your screen.
    ![Figure 2](Figure2.PNG)
    *Figure 2*
 
-##### Forking the repo: using the command line
+##### Forking the repo: using GitHub CLI
 1. Open your file manager.
 2. Locate where you stored the LinkedInLearning - Learning Java repo folder.
 3. Right click on the folder.
