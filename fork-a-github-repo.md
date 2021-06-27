@@ -64,8 +64,7 @@ This guide references repos found on GitHub, a site that hosts open-source proje
 3. Right click on the folder.
 4. Select **Git Bash Here**.
 5. Verify you are on the master branch. See *Figure 1* for a visual of the terminal.
-   ![Figure 1](Figure1.PNG)  
-   
+   ![Figure 1](Figure1.PNG)
    *Figure 1*
 6. Inside the Git terminal, run the following command:
    ~~~
@@ -78,12 +77,24 @@ This guide references repos found on GitHub, a site that hosts open-source proje
 11. Press the Return key.
 12. Input the one-time code into your browser.
 13. Follow the prompts to authenticate your GitHub account.
+14. Inside the terminal, press the Return key. The terminal should now begin with the master branch line. See *Figure 1* for a visual of the master branch line.
 ### Forking the repo
 ##### Forking the repo: without using the command line
-1. In your browser, navigate to the [LinkedInLearning - Learning Java](https://github.com/LinkedInLearning/learning-java-2825378) repo.
-2. Near the top right of the screen, click **Fork**. See *Figure 2* to locate **Fork** on your screen.
-   ![Figure 2](Figure2.PNG)  
-   
+1. In your browser, log in to your GitHub account.
+2. Navigate to the [LinkedInLearning - Learning Java](https://github.com/LinkedInLearning/learning-java-2825378) repo.
+2. Near the top right of the screen, select **Fork**. See *Figure 2* to locate **Fork** on your screen.
+   ![Figure 2](Figure2.PNG)
    *Figure 2*
 
 ##### Forking the repo: using the command line
+1. Open your file manager.
+2. Locate where you stored the LinkedInLearning - Learning Java repo folder.
+3. Right click on the folder.
+4. Select **Git Bash Here**.
+5. Verify you are on the master branch. See *Figure 1* for a visual of the terminal.
+6. Inside the Git terminal, run the following command:
+   ~~~
+   gh repo fork
+   ~~~
+7. Select the appropriate base repo with the Return key.
+   - The base repo is the repo your changes are based on.
