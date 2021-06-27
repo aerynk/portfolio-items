@@ -26,7 +26,7 @@ This guide references repos found on GitHub, a site that commonly hosts open-sou
 - A GitHub repo. This can be another user's repo or your own. This guide used another user's repo, [LinkedInLearning - Learning Java](https://github.com/LinkedInLearning/learning-java-2825378).
 
 ##### What you'll need: using the command line
-- A GitHub account. See the **What you'll need: without using the command line** section to create a new account.
+- A GitHub account. See the **[What you'll need: without using the command line](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#what-youll-need-without-using-the-command-line)** section to create a new account.
 - A GitHub repo. This can be another user's repo or your own. This guide used another user's repo, [LinkedInLearning - Learning Java](https://github.com/LinkedInLearning/learning-java-2825378).
 - Git.
   1. Navigate to [Git-Downloads](https://git-scm.com/downloads).
