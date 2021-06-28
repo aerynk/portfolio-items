@@ -10,7 +10,7 @@ This guide references repos found on GitHub, a site that hosts open-source proje
 &emsp;[What you'll need: without using GitHub CLI](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#what-youll-need-without-using-github-cli)  
 &emsp;[What you'll need: using GitHub CLI](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#what-youll-need-using-github-cli)  
 
-[Forking the repo]()  
+[Forking the repo](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#forking-the-repo)  
 &emsp;[Forking the repo: without using GitHub CLI]()  
 &emsp;[Forking the repo: using GitHub CLI]()  
 
