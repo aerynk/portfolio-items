@@ -7,12 +7,12 @@ This guide references repos found on GitHub, a site that hosts open-source proje
 [Glossary of terms](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#glossary-of-terms)  
 
 [What you'll need before forking the repo](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#what-youll-need-before-forking-the-repo)  
-&emsp;[What you'll need: without using GitHub CLI](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#what-youll-need-without-using-github-cli)  
-&emsp;[What you'll need: using GitHub CLI](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#what-youll-need-using-github-cli)  
+&emsp;[What you'll need: Without using GitHub CLI](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#what-youll-need-without-using-github-cli)  
+&emsp;[What you'll need: Using GitHub CLI](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#what-youll-need-using-github-cli)  
 
 [Forking the repo](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#forking-the-repo)  
-&emsp;[Forking the repo: without using GitHub CLI]()  
-&emsp;[Forking the repo: using GitHub CLI]()  
+&emsp;[Forking the repo: Without using GitHub CLI](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#forking-the-repo-without-using-github-cli)  
+&emsp;[Forking the repo: Using GitHub CLI]()  
 
 [Work on projects]()  
 
@@ -30,7 +30,7 @@ This guide references repos found on GitHub, a site that hosts open-source proje
 | Version control  | A way to track changes users make on projects      |
 
 ## What you'll need before forking the repo
-### What you'll need: without using GitHub CLI
+### What you'll need: Without using GitHub CLI
 - A GitHub account. To create a new account:
 1. Navigate to [GitHub.com](https://github.com/).
 2. Input your email into the white **Email address** field.
@@ -39,7 +39,7 @@ This guide references repos found on GitHub, a site that hosts open-source proje
 5. Verify your email according to the instructions.
 - A GitHub repo. This guide used another user's repo, [LinkedInLearning - Learning Java](https://github.com/LinkedInLearning/learning-java-2825378).
 
-### What you'll need: using GitHub CLI
+### What you'll need: Using GitHub CLI
 - A GitHub account. See the **[What you'll need: without using GitHub CLI](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#what-youll-need-without-using-github-cli)** section to create a new account.
 - A GitHub repo. This guide used another user's repo, [LinkedInLearning - Learning Java](https://github.com/LinkedInLearning/learning-java-2825378).
 - GitHub CLI. Download GitHub CLI:
@@ -92,14 +92,14 @@ This guide references repos found on GitHub, a site that hosts open-source proje
 13. Follow the prompts to authenticate your GitHub account.
 14. Inside the terminal, press the Return key. The terminal should now begin with the master branch line. See *Figure 1* for a visual of the master branch line.
 ## Forking the repo
-### Forking the repo: without using GitHub CLI
+### Forking the repo: Without using GitHub CLI
 1. In your browser, log in to your GitHub account.
 2. Navigate to the [LinkedInLearning - Learning Java](https://github.com/LinkedInLearning/learning-java-2825378) repo.
 2. Near the top right of the screen, select **Fork**. See *Figure 2* to locate **Fork** on your screen.
    ![Figure 2](Figure2.PNG)
    *Figure 2*
 
-### Forking the repo: using GitHub CLI
+### Forking the repo: Using GitHub CLI
 1. Open your file manager.
 2. Locate where you stored the LinkedInLearning - Learning Java repo folder.
 3. Right click on the folder.
