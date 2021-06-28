@@ -3,10 +3,10 @@ Use this guide to create your own copy of an original repository (repo) without 
 
 This guide references repos found on GitHub, a site that hosts open-source projects, such as software development projects, and offers version control. **This guide covers how to fork a repo both with and without using GitHub CLI.**
 
-### Glossary of terms
+## Glossary of terms
 | Term     | Description |
 | ----------- | ----------- |
-| Clone | To download a fork to your local computer      |
+| Clone | To download a copy of a repo to your local computer      |
 | Fork     | To create a copy of an original (another user’s) repo     |
 | Git  | The version control system used in this guide; a common version control system used among development teams       |
 | GitHub CLI  | A GitHub tool that merges GitHub functionality and Git      |
@@ -16,8 +16,8 @@ This guide references repos found on GitHub, a site that hosts open-source proje
 | Terminal  | A way to refer to the Git window where the user inputs commands for the computer to execute      |
 | Version control  | A way to track changes users make on projects      |
 
-### What you'll need before forking the repo
-##### What you'll need: without using GitHub CLI
+## What you'll need before forking the repo
+#### What you'll need: without using GitHub CLI
 - A GitHub account. To create a new account:
 1. Navigate to [GitHub.com](https://github.com/).
 2. Input your email into the white **Email address** field.
@@ -26,7 +26,7 @@ This guide references repos found on GitHub, a site that hosts open-source proje
 5. Verify your email according to the instructions.
 - A GitHub repo. This guide used another user's repo, [LinkedInLearning - Learning Java](https://github.com/LinkedInLearning/learning-java-2825378).
 
-##### What you'll need: using GitHub CLI
+#### What you'll need: using GitHub CLI
 - A GitHub account. See the **[What you'll need: without using GitHub CLI](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#what-youll-need-without-using-github-cli)** section to create a new account.
 - A GitHub repo. This guide used another user's repo, [LinkedInLearning - Learning Java](https://github.com/LinkedInLearning/learning-java-2825378).
 - GitHub CLI. Download GitHub CLI:
@@ -64,7 +64,7 @@ This guide references repos found on GitHub, a site that hosts open-source proje
 3. Right click on the folder.
 4. Select **Git Bash Here**.
 5. Verify you are on the master branch. See *Figure 1* for a visual of the terminal.
-   ![Figure 1](Figure1.PNG)
+   ![Figure 1](Figure1.PNG)  
    *Figure 1*
 6. Inside the Git terminal, run the following command:
    ~~~
@@ -78,15 +78,15 @@ This guide references repos found on GitHub, a site that hosts open-source proje
 12. Input the one-time code into your browser.
 13. Follow the prompts to authenticate your GitHub account.
 14. Inside the terminal, press the Return key. The terminal should now begin with the master branch line. See *Figure 1* for a visual of the master branch line.
-### Forking the repo
-##### Forking the repo: without using GitHub CLI
+## Forking the repo
+#### Forking the repo: without using GitHub CLI
 1. In your browser, log in to your GitHub account.
 2. Navigate to the [LinkedInLearning - Learning Java](https://github.com/LinkedInLearning/learning-java-2825378) repo.
 2. Near the top right of the screen, select **Fork**. See *Figure 2* to locate **Fork** on your screen.
    ![Figure 2](Figure2.PNG)
    *Figure 2*
 
-##### Forking the repo: using GitHub CLI
+#### Forking the repo: using GitHub CLI
 1. Open your file manager.
 2. Locate where you stored the LinkedInLearning - Learning Java repo folder.
 3. Right click on the folder.
@@ -99,13 +99,13 @@ This guide references repos found on GitHub, a site that hosts open-source proje
 7. Select the appropriate base repo with the Return key.
    - The base repo is the repo your changes are based on.
 
-### Work on Projects
+## Work on Projects
 That's it! You're ready to work on GitHub projects without making changes to the owner's repo.
 Forking a repo using GitHub CLI gives you many more options for working on projects on your computer, but forking a repo without GitHub CLI gets you started quicker and avoids the need to download multiple programs.
 
 ---
 
-Written by Aeryn Kauffman  
-27-JUNE-2021  
+Author: Aeryn Kauffman  
+Last edited: 28-JUNE-2021  
 Duration: ~6 hours  
 Style guide: [Microsoft](https://docs.microsoft.com/en-us/style-guide/welcome/)
