@@ -3,6 +3,9 @@ Use this guide to create your own copy of an original repository (repo) without 
 
 This guide references repos found on GitHub, a site that hosts open-source projects, such as software development projects, and offers version control. **This guide covers how to fork a repo both with and without using GitHub CLI.**
 
+## Table of contents
+[Glossary of terms](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#glossary-of-terms)
+
 ## Glossary of terms
 | Term     | Description |
 | ----------- | ----------- |
