@@ -107,4 +107,5 @@ Forking a repo using GitHub CLI gives you many more options for working on proje
 
 Written by Aeryn Kauffman  
 27-JUNE-2021  
-Duration: ~6 hours
+Duration: ~6 hours  
+Style guide: [Microsoft](https://docs.microsoft.com/en-us/style-guide/welcome/)
