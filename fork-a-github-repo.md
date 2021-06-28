@@ -14,7 +14,9 @@ This guide references repos found on GitHub, a site that hosts open-source proje
 &emsp;[Forking the repo: Without using GitHub CLI](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#forking-the-repo-without-using-github-cli)  
 &emsp;[Forking the repo: Using GitHub CLI](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#forking-the-repo-using-github-cli)  
 
-[Work on projects]()  
+[Work on projects](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#work-on-projects)  
+
+---
 
 ## Glossary of terms
 | Term     | Description |
