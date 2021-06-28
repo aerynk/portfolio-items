@@ -5,6 +5,8 @@ This guide references repos found on GitHub, a site that hosts open-source proje
 
 ## Table of contents
 [Glossary of terms](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#glossary-of-terms)
+[What you'll need before forking the repo](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#what-youll-need-before-forking-the-repo)
+  [What you'll need: without using GitHub CLI]()
 
 ## Glossary of terms
 | Term     | Description |
