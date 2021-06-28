@@ -4,9 +4,17 @@ Use this guide to create your own copy of an original repository (repo) without 
 This guide references repos found on GitHub, a site that hosts open-source projects, such as software development projects, and offers version control. **This guide covers how to fork a repo both with and without using GitHub CLI.**
 
 ## Table of contents
-[Glossary of terms](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#glossary-of-terms)
-[What you'll need before forking the repo](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#what-youll-need-before-forking-the-repo)
-  [What you'll need: without using GitHub CLI]()
+[Glossary of terms](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#glossary-of-terms)  
+
+[What you'll need before forking the repo](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#what-youll-need-before-forking-the-repo)  
+&emsp;[What you'll need: without using GitHub CLI](https://github.com/aerynk/portfolio-items/blob/main/fork-a-github-repo.md#what-youll-need-without-using-github-cli)  
+&emsp;[What you'll need: using GitHub CLI]()  
+
+[Forking the repo]()  
+&emsp;[Forking the repo: without using GitHub CLI]()  
+&emsp;[Forking the repo: using GitHub CLI]()  
+
+[Work on projects]()  
 
 ## Glossary of terms
 | Term     | Description |
@@ -104,7 +112,7 @@ This guide references repos found on GitHub, a site that hosts open-source proje
 7. Select the appropriate base repo with the Return key.
    - The base repo is the repo your changes are based on.
 
-## Work on Projects
+## Work on projects
 That's it! You're ready to work on GitHub projects without making changes to the owner's repo.
 Forking a repo using GitHub CLI gives you many more options for working on projects on your computer, but forking a repo without GitHub CLI gets you started quicker and avoids the need to download multiple programs.
 
