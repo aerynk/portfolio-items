@@ -80,7 +80,7 @@ This guide references repos found on GitHub, a site that hosts open-source proje
 4. Select **Git Bash Here**.
 5. Verify you are on the master branch. See *Figure 1* for a visual of the terminal.
    ![Figure 1](Figure1.PNG)  
-   *Figure 1*
+   *Figure 1. (master) appears last.*
 6. Inside the Git terminal, run the following command:
    ~~~
    gh auth login
