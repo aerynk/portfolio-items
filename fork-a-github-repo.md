@@ -86,9 +86,9 @@ This guide references repos found on GitHub, a site that hosts open-source proje
    gh auth login
    ~~~
 7. On the first prompt, select **GitHub.com** with the Return key.
-8. On the next prompt, select **HTTPS** with the Return key.
-9. On the next prompt, input **y**, then press the Return key.
-10. On the next prompt, select **Login with a web browser** with the Return key.
+8. Select **HTTPS** with the Return key.
+9. Input **y**, then press the Return key.
+10. Select **Login with a web browser** with the Return key.
 11. Press the Return key.
 12. Input the one-time code into your browser.
 13. Follow the prompts to authenticate your GitHub account.
