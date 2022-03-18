@@ -78,9 +78,9 @@ This guide references repos found on GitHub, a site that hosts open-source proje
 2. Locate where you stored the LinkedInLearning - Learning Java repo folder.
 3. Right click on the folder.
 4. Select **Git Bash Here**.
-5. Verify you are on the master branch. See *Figure 1* for a visual of the terminal.
+5. Verify you are on the master branch. See *Figure 1* for a visual of the terminal. (master) appears last.
    ![Figure 1](Figure1.PNG)  
-   *Figure 1. (master) appears last.*
+   *Figure 1*
 6. Inside the Git terminal, run the following command:
    ~~~
    gh auth login
